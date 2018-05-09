@@ -1,4 +1,6 @@
-[TOC]
+版本 | 作者 | 时间
+:-----|:------:|:---:|----:
+1.0 | 冯磊 张继文 李响 | 2018/05/09 | 
 
 ## 手机管车AI模块卡片组件
 ### 1，单/多行纯文本。
@@ -12,38 +14,38 @@
 - 数据结构：
 ```
 {
-  "componentType": 1,
-  "data": {
-    "title": {
-      "text": "您可以这样问我：",
-      "fontSize": 15.0,
-      "textColor": "#AAAAAA",
-      "backgroundColor": "#AAAAAA",
-      "borderColor": "#0000FF",
-      "borderWidth": 1.0,
-      "cornerRadius": 0.0
-    },
-    "values": [
-        {
-        "text": "违章查询",
-        "fontSize": 13.0,
-        "textColor": "#AAAAAA",
-        "backgroundColor": "#AAAAAA",
-        "borderColor": "#0000FF",
-        "borderWidth": 1.0,
-        "cornerRadius": 0.0
-      },
-      {
-        "text": "川A888888到哪里了",
-        "fontSize": 13.0,
-        "textColor": "#AAAAAA",
-        "backgroundColor": "#AAAAAA",
-        "borderColor": "#0000FF",
-        "borderWidth": 1.0,
-        "cornerRadius": 0.0
-      }
-    ]
-  }
+	"componentType": 1,
+	"data": {
+		"title": {
+			"text": "您可以这样问我：",
+			"fontSize": 15.0,
+			"textColor": "#AAAAAA",
+			"backgroundColor": "#AAAAAA",
+			"borderColor": "#0000FF",
+			"borderWidth": 1.0,
+			"cornerRadius": 0.0
+		},
+		"values": [
+		    {
+				"text": "违章查询",
+				"fontSize": 13.0,
+				"textColor": "#AAAAAA",
+				"backgroundColor": "#AAAAAA",
+				"borderColor": "#0000FF",
+				"borderWidth": 1.0,
+				"cornerRadius": 0.0
+			},
+			{
+				"text": "川A888888到哪里了",
+				"fontSize": 13.0,
+				"textColor": "#AAAAAA",
+				"backgroundColor": "#AAAAAA",
+				"borderColor": "#0000FF",
+				"borderWidth": 1.0,
+				"cornerRadius": 0.0
+			}
+		]
+	}
 }
 ```
 
